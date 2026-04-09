@@ -19,7 +19,7 @@ export ANTHROPIC_API_KEY="sk-ant-YOUR_KEY_HERE"
 
 **Windows (Command Prompt):**
 ```cmd
-set ANTHROPIC_API_KEY=AIzaSyCPD8-U606ki6Upx19-brpJBYB2PTiSQtA
+set ANTHROPIC_API_KEY=
 ```
 
 ---
