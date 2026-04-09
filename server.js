@@ -28,7 +28,7 @@ const PORT = process.env.PORT || 3000;
  *
  * Get your key at https://aistudio.google.com/app/apikey
  */
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY || "AIzaSyCPD8-U606ki6Upx19-brpJBYB2PTiSQtA";
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY || "";
 
 /**
  * RAW URL of a plain-text or JSON file in a public Git repository.
