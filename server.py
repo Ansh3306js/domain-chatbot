@@ -24,7 +24,7 @@ PORT = 3000
 #   Windows CMD:        set GEMINI_API_KEY=AIza...
 #   Windows PowerShell: $env:GEMINI_API_KEY="AIza..."
 #   Mac/Linux:          export GEMINI_API_KEY="AIza..."
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyCPD8-U606ki6Upx19-brpJBYB2PTiSQtA")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 
 # Raw URL of a plain-text file in a public Git repo (your domain knowledge)
 DOMAIN_DATA_URL = "https://raw.githubusercontent.com/nicholasgasior/gsfmt/master/README.md"
