@@ -1,0 +1,12 @@
+{
+  "name": "domain-chatbot",
+  "version": "1.0.0",
+  "description": "Lightweight domain-specific chatbot using Claude + Git-fetched context",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["chatbot", "llm", "claude", "domain-specific"],
+  "license": "MIT",
+  "dependencies": {}
+}
